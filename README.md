@@ -1,5 +1,5 @@
 # Snowputer
-> **Fast Golang Tool take a filename with urls and test if the put method is enabled it upload a file **
+> **Fast Golang Tool take a filename with urls and test if the put method is enabled it upload a file**
 
 
 # Install
