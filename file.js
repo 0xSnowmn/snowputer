@@ -11,3 +11,4 @@ HEROKU.12345678-1234-1234-1234-1234567890AB
 key-1a2b3c4d5e6f7g8h9i0jklmnopqrstuvwx
 amzn.mws.12345678-1234-1234-1234-1234567890ab
 s3.amazonaws.com/|example.s3.amazonaws.com
+twitter_consumer_key=abcd1234
